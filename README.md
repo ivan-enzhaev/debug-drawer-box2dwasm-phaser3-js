@@ -1,16 +1,7 @@
-Buy me a chicory coffee: https://boosty.to/ivan_8observer8/donate This service supports PayPal.
+Playground: https://plnkr.co/edit/0Lim08uzqEJz91V7?preview
 
-Live demo: https://8observer8.github.io/webgl10-js/debug-drawer-box2dwasm-phaser3-js/
+Discussions:
 
-Playgrounds:
-
-- Replit: https://replit.com/@8Observer8/Debug-drawer-for-Box2D-WASM-using-Phaser3-and-JS
-- Plunker: https://plnkr.co/edit/0Lim08uzqEJz91V7?preview
-- Glitch: https://glitch.com/edit/#!/caterwauling-muddy-cloak
-
-Topic and discussions:
-
-- Phaser topic: https://phaser.discourse.group/t/the-debug-drawer-of-box2d-wasm-colliders-using-phaser3-and-javascript/13430
 - Phaser discussion: https://github.com/photonstorm/phaser/discussions/6556
 - Box2D-WASM discussion: https://github.com/Birch-san/box2d-wasm/discussions/68
 
